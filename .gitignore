@@ -1,0 +1,14 @@
+src/checkers-python/__pycache__
+src/checkers-python/AI_Extensions/__pycache__
+src/checkers-python/Poor_AI/__pycache__
+
+Tools/Sample_AIs/Poor_AI/__pycache__
+Tools/Sample_AIs/Poor_AI/AI_Extensions/__pycache__
+
+
+Tools/Sample_AIs/Random_AI/__pycache__
+Tools/Sample_AIs/Random_AI/AI_Extensions/__pycache__
+
+test_winrate.py
+test_winrate.sh
+TESTING_GUIDE.md
